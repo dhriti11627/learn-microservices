@@ -24,8 +24,8 @@ public class UserController {
     @Autowired
     private UserServices userServices;
 
-    @Autowired
-    private RestTemplate restTemplate;
+//    @Autowired
+//    private RestTemplate restTemplate;
 
     @Autowired
     private RatingService ratingService;
